@@ -22,6 +22,7 @@ Tools & Technologies
 - **Python** (pandas, numpy, matplotlib)
 - **Google Looker Studio**
 - **Google Slides**
+- **MS Excel & VBA**
 - **Stack Overflow Developer Survey 2024 dataset**
 ---
 
@@ -34,9 +35,9 @@ Insights
 
 Contact
 **Danny Tang**  
-- 📧 Email: [your email here]  
-- 💼 LinkedIn: [your LinkedIn here]  
-- 🔗 Portfolio: [your GitHub/portfolio link here]  
+- Email: dannypctang@gmail.com 
+- LinkedIn: www.linkedin.com/in/dannypctang
+- Portfolio: https://github.com/dannypctang528
 
 ---
 Note
