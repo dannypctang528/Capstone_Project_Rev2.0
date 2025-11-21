@@ -1,6 +1,6 @@
-**Capstone Project: Stack Overflow Developer Survey Analysis (2024)**
+Capstone Project: Stack Overflow Developer Survey Analysis (2024)
 
-This repository contains my capstone project analyzing the **2024 Stack Overflow Developer Survey**.  
+This repository contains my capstone project analyzing the 2024 Stack Overflow Developer Survey.  
 The project explores developer preferences, compensation trends, and satisfaction across technologies, platforms, and demographics using Python, Looker Studio, and Google Slides.
 ---
 
